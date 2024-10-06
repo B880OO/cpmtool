@@ -1,6 +1,6 @@
 
 # CPMTool
-#
+# Please let me know if you find an error there https://t.me/B880OO
 
 Python Script for Increase Money and Coins 
 
@@ -15,5 +15,4 @@ For start script run in cmd:
   # python3 main.py (Linux)
   
 
-Please let me know if you find an error there https://t.me/B880OO
 # This script was written for fun,This is alpha version.
