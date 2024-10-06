@@ -6,7 +6,7 @@ Python Script for Increase Money and Coins
 
 For start script run in cmd:
 
-  # git clone https://github.com/ursbeauteous/smsBomber-UZB
+  # git clone https://github.com/B880OO/cpmtool.git
 
   # pip install -r r.txt
 
