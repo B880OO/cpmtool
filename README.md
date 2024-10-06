@@ -10,9 +10,9 @@ For start script run in cmd:
 
   # pip install -r r.txt
 
-  # python main.py (Windows)
+  # python tool.py (Windows)
   
-  # python3 main.py (Linux)
+  # python3 tool.py (Linux)
   
 
 # This script was written for fun,This is alpha version.
